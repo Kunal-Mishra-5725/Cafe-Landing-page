@@ -9,7 +9,7 @@ My first web development project built with HTML & CSS. This covers fundamental 
 - Basic UI/UX considerations
 
 ## Preview
-![Cafe Landing Page Preview](![Uploading Screenshot from 2025-08-17 18-56-29.png…]()
+![Cafe Landing Page Preview](http://127.0.0.1:5500/Cafe%20Landing%20page/p2.html)
 )
 
 ## Features
