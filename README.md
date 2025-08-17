@@ -8,10 +8,6 @@ My first web development project built with HTML & CSS. This covers fundamental 
 - Image optimization
 - Basic UI/UX considerations
 
-## Preview
-![Cafe Landing Page Preview](http://127.0.0.1:5500/Cafe%20Landing%20page/p2.html)
-)
-
 ## Features
 - Clean, minimalist design
 - Responsive layout
